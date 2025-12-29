@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 ### Earned Badges
-<a href="(https://www.credly.com/badges/6de4f7ca-1786-4a7b-9cc0-36df6d30a2e4/public_url)">
+<a href="(https://images.credly.com/size/340x340/images/fcafd0c9-42da-4703-a191-0c397203dc1b/blob)">
   <img src="https://www.credly.com/badges/6de4f7ca-1786-4a7b-9cc0-36df6d30a2e4/public_url" width="100" alt="AWS Academy Graduate - Cloud Architecting - Training Badge">
 </a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6de4f7ca-1786-4a7b-9cc0-36df6d30a2e4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **shyma27/shyma27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
