@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ### Earned Badges
-https://www.credly.com/badges/6de4f7ca-1786-4a7b-9cc0-36df6d30a2e4/public_url
+<a href="(https://www.credly.com/badges/6de4f7ca-1786-4a7b-9cc0-36df6d30a2e4/public_url)">
+  <img src="https://www.credly.com/badges/6de4f7ca-1786-4a7b-9cc0-36df6d30a2e4/public_url" width="100" alt="AWS Academy Graduate - Cloud Architecting - Training Badge">
+</a>
 <!--
 **shyma27/shyma27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
